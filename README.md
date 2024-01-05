@@ -1,2 +1,2 @@
 # vizsgaremek-sablon
-Vizsgaremek sablon
+Vizsgaremek repository sablon
